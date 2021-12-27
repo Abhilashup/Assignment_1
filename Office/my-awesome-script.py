@@ -1,6 +1,6 @@
 #!/bin/python
 
-print('Howdy, World!')
+print("Hello! World, we are one!")
 
 print('Hajimemashite sekai!')
 
